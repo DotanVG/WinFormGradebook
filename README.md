@@ -11,6 +11,11 @@ This is my first C# Windows Forms Project.
 I've learned a lot and really enjoyed working on both the design and logic of this assignment.
 
 -------------------------------------
+In order to test the app please download or clone the repository and open with visual studio, 
+
+then Run the Project called "DotanVeretzkyWinFormGradeBook".
+
+-------------------------------------
 
 "Take-Home-Assignment" Details:
 
