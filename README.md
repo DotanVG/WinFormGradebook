@@ -15,6 +15,10 @@ In order to test the app please download or clone the repository and open with v
 
 then Run the Project called "DotanVeretzkyWinFormGradeBook".
 
+You can also open the app as .exe file inside the following folders
+
+bin => release => net6.0-windows => "DotanVeretzkyWinFormGradeBook"
+
 -------------------------------------
 
 "Take-Home-Assignment" Details:
