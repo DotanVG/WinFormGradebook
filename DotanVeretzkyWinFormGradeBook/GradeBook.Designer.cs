@@ -233,7 +233,7 @@
             // 
             this.generateButton.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.generateButton.BackColor = System.Drawing.Color.Transparent;
-            this.generateButton.BackgroundImage = global::DotanVeretzkyKonamiGradeBook.Properties.Resources.Go_Button;
+            this.generateButton.BackgroundImage = global::DotanVeretzkyWinFormGradeBook.Properties.Resources.Go_Button;
             this.generateButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.generateButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.generateButton.Location = new System.Drawing.Point(462, 370);
@@ -314,8 +314,8 @@
             // 
             this.projectTitle.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.projectTitle.BackColor = System.Drawing.Color.Transparent;
-            this.projectTitle.BackgroundImage = global::DotanVeretzkyKonamiGradeBook.Properties.Resources.projectname;
             this.projectTitle.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.projectTitle.BackgroundImage = global::DotanVeretzkyWinFormGradeBook.Properties.Resources.projectname;
             this.projectTitle.Location = new System.Drawing.Point(157, 60);
             this.projectTitle.Name = "projectTitle";
             this.projectTitle.Size = new System.Drawing.Size(323, 35);
@@ -326,7 +326,7 @@
             // 
             this.developerLabel.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.developerLabel.BackColor = System.Drawing.Color.Transparent;
-            this.developerLabel.BackgroundImage = global::DotanVeretzkyKonamiGradeBook.Properties.Resources.devname;
+            this.developerLabel.BackgroundImage = global::DotanVeretzkyWinFormGradeBook.Properties.Resources.devname;
             this.developerLabel.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.developerLabel.Enabled = false;
             this.developerLabel.Location = new System.Drawing.Point(571, 72);
@@ -339,7 +339,7 @@
             // 
             this.clearButton.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.clearButton.BackColor = System.Drawing.Color.Transparent;
-            this.clearButton.BackgroundImage = global::DotanVeretzkyKonamiGradeBook.Properties.Resources.clearbtn;
+            this.clearButton.BackgroundImage = global::DotanVeretzkyWinFormGradeBook.Properties.Resources.clearbtn;
             this.clearButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.clearButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.clearButton.Location = new System.Drawing.Point(607, 370);
@@ -423,7 +423,7 @@
             // deleteSelectedButton
             // 
             this.deleteSelectedButton.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.deleteSelectedButton.BackgroundImage = global::DotanVeretzkyKonamiGradeBook.Properties.Resources.delete;
+            this.deleteSelectedButton.BackgroundImage = global::DotanVeretzkyWinFormGradeBook.Properties.Resources.delete;
             this.deleteSelectedButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.deleteSelectedButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.deleteSelectedButton.Location = new System.Drawing.Point(779, 370);
@@ -438,7 +438,7 @@
             // 
             this.resetButton.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.resetButton.BackColor = System.Drawing.Color.Transparent;
-            this.resetButton.BackgroundImage = global::DotanVeretzkyKonamiGradeBook.Properties.Resources.reset;
+            this.resetButton.BackgroundImage = global::DotanVeretzkyWinFormGradeBook.Properties.Resources.reset;
             this.resetButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.resetButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.resetButton.Location = new System.Drawing.Point(911, 370);
@@ -508,7 +508,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.BackgroundImage = global::DotanVeretzkyKonamiGradeBook.Properties.Resources.background;
+            this.BackgroundImage = global::DotanVeretzkyWinFormGradeBook.Properties.Resources.background;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1084, 661);
             this.Controls.Add(this.deleteStudentButton);
